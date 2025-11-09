@@ -1,7 +1,8 @@
 ☕ Coffee Shop Website
 
 A modern Coffee Shop web application built with React and Tailwind CSS.
-This project showcases a responsive and interactive user interface, perfect for browsing coffee products, viewing details, and adding items to a cart.
+This project showcases a responsive and interactive user interface, perfect for browsing coffee products, viewing details, and adding items to a cart. 
+
 ✨ Features
 
 Browse coffee products with images and prices
